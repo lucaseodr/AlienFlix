@@ -1,5 +1,5 @@
 import React from 'react'
-import Logo from '../../assets/logo.png'
+import Logo from '../../assets/logo_alien.png'
 import './Menu.css'
 import ButtonLink from './components/ButtonLink/Index'
 
@@ -7,11 +7,11 @@ export const Menu = () => {
     return (
         <nav className="Menu">
             <a href="/">
-                <img className="Logo" src={Logo} alt="Alienizee logo" />
+                <img className="Logo" src={Logo} alt="AlienFlix logo" />
             </a>
 
             <ButtonLink className="ButtonLink" href="/">
-                Novo vídeo
+                Abduzir vídeo
             </ButtonLink>
         </nav>
     )

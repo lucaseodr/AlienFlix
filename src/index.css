@@ -4,7 +4,7 @@
 }
 
 :root {
-  --primary: #2A7AE4;
+  --primary: #225149;
   --black: #000000;
   --blackLighter: #9E9E9E;
   --grayLight: #F5F5F5;
@@ -23,3 +23,29 @@ body {
 a {
   color: inherit;
 } 
+
+/* width */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 8px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #225149;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #487463;
+}
+
+::-webkit-scrollbar-thumb:horizontal{
+  background: #487463;
+  width: 1px;
+}

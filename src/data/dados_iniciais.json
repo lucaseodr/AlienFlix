@@ -1,46 +1,42 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Aparições",
       "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "cor": "#a0d29e",
       "link_extra": {
         "text": "Formação de Front End na Alura",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Pentágono divulga vídeos de OVNIs",
+          "url": "https://www.youtube.com/watch?v=esKaBMVnwcY"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Chilean Navy releases video of mysterious flying object",
+          "url": "https://www.youtube.com/watch?v=iEK3YC_BKTI"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Records show thousands of UFO sightings in Manitoba",
+          "url": "https://www.youtube.com/watch?v=Rx1Nl-_Eyj0"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "5 APARIÇÕES DE OVNIS QUE VÃO TE DAR MEDO",
+          "url": "https://www.youtube.com/watch?v=GLYf11qZZAA"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "CASOS BIZARROS DE APARIÇÕES ALIENÍGENAS NA HISTÓRIA",
+          "url": "https://www.youtube.com/watch?v=pMOB9m1Gl1k"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "SUPOSTA aparição de OVNI em MAGÉ, no RIO DE JANEIRO",
+          "url": "https://www.youtube.com/watch?v=td-XMjsd_NY"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "5 APARIÇÕES DE OVNIS ASSUSTADORAS",
+          "url": "https://www.youtube.com/watch?v=XmJYB8HJlps"
+        }
       ]
     },
     {
@@ -66,7 +62,7 @@
         {
           "titulo": "API: Dicionário do Programador",
           "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
+        },
         {
           "titulo": "Usando Git Direito",
           "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
